@@ -1,0 +1,21 @@
+/* src/CarCard.css */
+.car-image {
+    max-width: 100%; /* Set the maximum width to 100% to maintain aspect ratio */
+    max-height: 200px; /* Set the maximum height as needed */
+  }
+.car-data-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  padding: 5px;
+  border: 1px solid #ccc;
+}

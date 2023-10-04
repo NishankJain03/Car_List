@@ -1,0 +1,126 @@
+[
+      {
+        "id": 1,
+        "name": "Car 1",
+        "imageUrl": "BMW.jpg",
+        "year": 2022,
+        "people": 4,
+        "fuelType": "6.1/ 1km",
+        "transmission": "Automatic",
+        "rent": "$510/month"
+      },
+      {
+        "id": 2,
+        "name": "Car 2",
+        "imageUrl": "BMW.jpg",
+        "year": 2022,
+        "people": 4,
+        "fuelType": "6.1/ 1km",
+        "transmission": "Automatic",
+        "rent": "$510/month"
+      },
+      {
+        "id": 3,
+        "name": "Car 3",
+        "imageUrl": "BMW.jpg",
+        "year": 2022,
+        "people": 4,
+        "fuelType": "6.1/ 1km",
+        "transmission": "Automatic",
+        "rent": "$510/month"
+      },
+      {
+        "id": 4,
+        "name": "Car 4",
+        "imageUrl": "Audi.jpeg",
+        "year": 2022,
+        "people": 4,
+        "fuelType": "6.1/ 1km",
+        "transmission": "Automatic",
+        "rent": "$510/month"
+      },
+      {
+        "id": 5,
+        "name": "Car 5",
+        "imageUrl": "Audi.jpeg",
+        "year": 2022,
+        "people": 4,
+        "fuelType": "6.1/ 1km",
+        "transmission": "Automatic",
+        "rent": "$510/month"
+      },
+      {
+        "id": 6,
+        "name": "Car 6",
+        "imageUrl": "Audi.jpeg",
+        "year": 2022,
+        "people": 4,
+        "fuelType": "6.1/ 1km",
+        "transmission": "Automatic",
+        "rent": "$510/month"
+      },
+      {
+        "id": 7,
+        "name": "Car 7",
+        "imageUrl": "BMW.jpg",
+        "year": 2022,
+        "people": 4,
+        "fuelType": "6.1/ 1km",
+        "transmission": "Automatic"
+      },
+      {
+        "id": 8,
+        "name": "Car 8",
+        "imageUrl": "BMW.jpg",
+        "year": 2022,
+        "people": 4,
+        "fuelType": "6.1/ 1km",
+        "transmission": "Automatic"
+      },
+      {
+        "id": 9,
+        "name": "Car 9",
+        "imageUrl": "BMW.jpg",
+        "year": 2022,
+        "people": 4,
+        "fuelType": "6.1/ 1km",
+        "transmission": "Automatic"
+      },
+      {
+        "id": 10,
+        "name": "Car 10",
+        "imageUrl": "BMW.jpg",
+        "year": 2022,
+        "people": 4,
+        "fuelType": "6.1/ 1km",
+        "transmission": "Automatic"
+      },
+      {
+        "id": 11,
+        "name": "Car 11",
+        "imageUrl": "BMW.jpg",
+        "year": 2022,
+        "people": 4,
+        "fuelType": "6.1/ 1km",
+        "transmission": "Automatic"
+      },
+      {
+        "id": 12,
+        "name": "Car 12",
+        "imageUrl": "BMW.jpg",
+        "year": 2022,
+        "people": 4,
+        "fuelType": "6.1/ 1km",
+        "transmission": "Automatic"
+      },
+      {
+        "id": 13,
+        "name": "Car 13",
+        "imageUrl": "BMW.jpg",
+        "year": 2022,
+        "people": 4,
+        "fuelType": "6.1/ 1km",
+        "transmission": "Automatic"
+      }
+  ]
+  

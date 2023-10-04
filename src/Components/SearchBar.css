@@ -1,0 +1,39 @@
+/* SearchBar.css */
+.search-bar {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    border: 2px solid #007bff; /* Increase border size and change color */
+    border-radius: 10px; /* Increase border radius for rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 12px; /* Increase padding for more space */
+  }
+  
+  .search-input {
+    flex-grow: 1;
+    border: none;
+    outline: none;
+    padding: 8px 16px; /* Adjust padding for input field */
+    font-size: 16px; /* Increase font size for better readability */
+  }
+  
+  .search-input::placeholder {
+    color: #aaa;
+  }
+  
+  .clear-button {
+    background-color: #e0e0e0; /* Button background color */
+    color: #333; /* Button text color */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px; /* Increase font size for better readability */
+    padding: 8px 16px; /* Increase padding for button size */
+    margin-left: 12px; /* Increase margin for button spacing */
+    transition: background-color 0.2s;
+  }
+  
+  .clear-button:hover {
+    background-color: #ccc; /* Hover background color */
+  }
+  
